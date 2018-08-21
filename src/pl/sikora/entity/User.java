@@ -1,3 +1,5 @@
+package pl.sikora.entity;
+
 public class User {
 
     private Long id;

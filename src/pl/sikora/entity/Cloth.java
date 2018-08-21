@@ -1,3 +1,5 @@
+package pl.sikora.entity;
+
 public class Cloth extends Product{
 
     String size;

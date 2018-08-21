@@ -1,3 +1,5 @@
+package pl.sikora.entity;
+
 public class Boots extends Product{
 
     private int size;

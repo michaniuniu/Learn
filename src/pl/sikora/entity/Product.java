@@ -1,3 +1,5 @@
+package pl.sikora.entity;
+
 public class Product {
 
     private Long id;
